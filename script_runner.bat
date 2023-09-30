@@ -1,0 +1,1 @@
+"C:\Users\mkpra\AppData\Local\Programs\Python\Python38" "C:\Users\mkpra\OneDrive\Desktop\Face-Recognition-main\kuchbhi.py" %*
